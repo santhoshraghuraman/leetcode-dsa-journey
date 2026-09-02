@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
