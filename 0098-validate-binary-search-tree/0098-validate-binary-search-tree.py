@@ -4,7 +4,7 @@ class Solution:
 
         def inorder(node):
             if node is None:
-                return 0
+                return 
 
             inorder(node.left)
             values.append(node.val)
