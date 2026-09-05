@@ -1,7 +1,7 @@
 from collections import deque
 
 class Solution:
-    def  levelOrder(self, root):
+    def levelOrder(self, root):
         if root is None:
             return []
 
@@ -15,15 +15,13 @@ class Solution:
 
             for i in range(size):
                 node = queue.popleft()
-        
+
                 level.append(node.val)
 
                 if node.left:
                     queue.append(node.left)
-
                 if node.right:
                     queue.append(node.right)
 
             result.append(level)
-
         return result
