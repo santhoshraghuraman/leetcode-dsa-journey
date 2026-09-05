@@ -50,4 +50,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/santhoshraghuraman/leetcode-dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
